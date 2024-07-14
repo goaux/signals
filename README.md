@@ -1,6 +1,9 @@
 # signals
 signals is a Go module that provides utilities for handling OS signals.
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/goaux/signals.svg)](https://pkg.go.dev/github.com/goaux/signals)
+[![Go Report Card](https://goreportcard.com/badge/github.com/goaux/signals)](https://goreportcard.com/report/github.com/goaux/signals)
+
 ## Installation
 
 To install the signals module, use the following command:
