@@ -11,7 +11,7 @@ import (
 	"github.com/goaux/signals"
 )
 
-func Example() {
+func Example_wait() {
 	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
 	defer cancel()
 
