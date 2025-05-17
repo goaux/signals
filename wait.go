@@ -1,4 +1,3 @@
-// Package signals provides utilities for handling OS signals.
 package signals
 
 import (
